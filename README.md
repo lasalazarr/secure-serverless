@@ -1,5 +1,5 @@
 # secure-serverless
-Auth0 Spring MVC Sample + AWS Lambda autorize to AWS Gateway
+Auth0 Spring MVC Sample 
 
 ## Auth0 Spring MVC Sample
 
