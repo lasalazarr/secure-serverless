@@ -24,7 +24,7 @@
                 <li id="logout"><a href="#">Logout</a></li>
             </ul>
         </nav>
-        <h3 class="text-muted">Oracle Javaday Code Brazil 2018</h3>
+        <h3 class="text-muted">Voxxed Days Cluj-Napoca 2018</h3>
     </div>
     <div class="jumbotron">
         <h3>Hello ${userId}!</h3>
