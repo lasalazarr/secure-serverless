@@ -1,5 +1,5 @@
 # secure-serverless
-Auth0 Spring MVC and Angular2 Sample 
+This is an Auth0 + Spring MVC and Angular2 Sample 
 
 ## Auth0 Spring MVC Sample
 
